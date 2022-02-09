@@ -15,8 +15,11 @@ o	How does replacing the ninth graders’ math and reading scores affect Thomas 
 o	How does replacing the ninth-grade scores affect the following:
 	Math and reading scores by grade
 	Overall when compared to other schools the senior high grades are not affected and if we assume that the 9th grade data that was removed would be the same as the other 9th grade programs then it too would appear in the 80th percentile.
-	Math scores by Grade                                     Reading scores by Grade
-	![image](https://user-images.githubusercontent.com/88185044/153121415-cca1c7e5-98de-454f-af01-62e3a59b9527.png)![image](https://user-images.githubusercontent.com/88185044/153121331-80d72d68-3b1f-489e-913e-8019915cb067.png)
+	Math scores by Grade                                     
+	![image](https://user-images.githubusercontent.com/88185044/153121415-cca1c7e5-98de-454f-af01-62e3a59b9527.png)
+
+Reading scores by Grade
+![image](https://user-images.githubusercontent.com/88185044/153121331-80d72d68-3b1f-489e-913e-8019915cb067.png)
 
 	Scores by school spending
 	![image](https://user-images.githubusercontent.com/88185044/153121497-07a44cdf-312d-4ccb-b5ad-ae5b0d9dae25.png)
